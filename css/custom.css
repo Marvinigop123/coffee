@@ -13,6 +13,20 @@ main {
   background-color: #fafafa;
 }
 
+.button {
+  background: slategray;
+  padding: 5px;
+  text-align: center;
+  margin: auto;
+  margin-top: 0%;
+  color: white;
+  font-family: 'Constantia', sans-serif;
+}
+
+.play {
+  color: black;
+}
+
 footer {
   flex-shrink: 0;
 }
